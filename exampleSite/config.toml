@@ -1,4 +1,4 @@
-baseURL = "graviteaza"
+baseURL = "/"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
