@@ -1,9 +1,9 @@
-baseURL = "https://fervent-mccarthy-570bca.netlify.app/"
+baseURL = "graviteaza"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
-title = "Parsa Hugo | Personal Blog Template"
+title = "Graviteaza"
 [[menu.main]]
 URL = "about"
 name = "About"
