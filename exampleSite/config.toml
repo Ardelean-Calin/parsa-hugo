@@ -1,4 +1,4 @@
-baseURL = "public"
+baseURL = "https://fervent-mccarthy-570bca.netlify.app/"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
